@@ -1,0 +1,29 @@
+
+.grid5050{
+  display: grid;
+  grid-template-columns: 60% 40%;
+  height: fit-content;
+
+}
+
+.grid5050 button{
+  height: fit-content;
+  width: fit-content;
+}
+
+.modelpara{
+    text-align: center;
+}
+
+#myCustomModal{
+   width: 200px;
+}
+
+.modal-custom {
+    width: 200px;
+  }
+
+  /* Modal Content */
+  .modal-content {
+    background-color: #fefefe;
+  }
